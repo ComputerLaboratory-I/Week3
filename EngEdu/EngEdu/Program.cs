@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2561 semester 1, I have C# skill in intermediate");
             Console.WriteLine("Year 2561 semester 2, I completed to learn advanced skill on unity");
             Console.WriteLine("Year 2562 semester 1, I seriously start my software development life");
+            Console.WriteLine("Year 2562 semester 2, I got 800 TOEIC score and ready for the real job");
         }
     }
 }
